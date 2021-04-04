@@ -1,6 +1,6 @@
 # Steps to run the application
     - Navigate to the root folder of the application.
-    - Install all the dependenceise by extering the cmd "npm install" in cmd prompt.
+    - Install all the dependenceise by entering the cmd "npm install" in cmd prompt.
     - Run the application from cmd prompt by command "npm start"
     - once the application server started open browser and navigate to the address "http://localhost:3000" to see the app in live.
 
