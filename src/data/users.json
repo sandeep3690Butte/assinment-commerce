@@ -1,0 +1,7 @@
+[
+    {"userId": 1, "name":"user1", "password":"password1", "contact":1234567891, "url":"https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png"},
+    {"userId": 2, "name":"user2", "password":"password2", "contact":1234567892, "url":"https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png"},
+    {"userId": 3, "name":"user3", "password":"password3", "contact":1234567893, "url":"https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png"},
+    {"userId": 4, "name":"user4", "password":"password4", "contact":1234567894, "url":"https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png"},
+    {"userId": 5, "name":"user5", "password":"password5", "contact":1234567895, "url":"https://cdn1.iconfinder.com/data/icons/avatar-97/32/avatar-02-512.png"}
+]

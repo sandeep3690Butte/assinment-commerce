@@ -1,0 +1,13 @@
+.login_header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+.closeIcon{
+    margin-top: 10px;
+    margin-left: 50px;
+    cursor: pointer;
+    &:hover {
+        color: rgb(213 52 52 / 87%);;
+    }
+}
+}

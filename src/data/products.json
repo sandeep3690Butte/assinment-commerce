@@ -1,0 +1,44 @@
+[
+  {
+    "category": "shoes",
+    "products": [
+      {
+        "id":1,
+        "name": "Nike",
+        "sizes": [5, 6, 7, 8],
+        "price": 400,
+        "description": "NIKE, named for the Greek goddess of victory, is a shoe and apparel company. It designs, develops, and sells a variety of products to help in playing basketball and soccer (football), as well as in running, men's and women's training, and other action sports",
+        "url": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1606765890-kiger6-1606765451.jpg?crop=1.00xw:0.598xh;0,0.402xh&resize=480%3A%2A"
+      },
+      {
+        "id":2,
+        "name": "addidas",
+        "sizes": [7, 8, 910],
+        "price": 1000,
+        "description": "Prototype after prototype. Innovation after innovation. Testing after testing. Meet us in the hot pursuit of the pinnacle harmonization of weight, cushioning, and responsiveness. Ultraboost 21. Say hello to incredible energy return.",
+        "url": "https://www.verywellfit.com/thmb/JGIlBXVDzsCNMIsKDwI0SVdgjec=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/nike-free-Simon-McGill-Moment-Mobile-GettyImages-494841869-5b9e6b08c9e77c0050ed7bd8.jpg"
+      }
+    ]
+  },
+  {
+    "category": "shirts",
+    "products": [
+      {
+        "id":1,
+        "name": "ASIAN & FITCH",
+        "sizes": ["s", "m", "l", "xl"],
+        "price": 999,
+        "description": "Men Slim Fit Checkered Button Down Collar Casual Shirt",
+        "url": "https://images-na.ssl-images-amazon.com/images/I/81KqghBXh4L._UY550_.jpg"
+      },
+      {
+        "id":2,
+        "name": "ATHARV",
+        "sizes": ["s", "m", "l", "xl"],
+        "price": 999,
+        "description": "Solid Men Polo Neck Yellow T-Shirt",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzax_HDoXU45ryVhVFrBxKGIDZvUNeA9FX-lg3SPOIZ7B6LhgupMZOs0VM_DhtRNJgOWWDOUO_9UM&usqp=CAc"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+export const ADD_TO_CART = "ADD_TO_CART";
+export const DELETE_FROM_CART = "DELETE_FROM_CART";
+export const UPDATE_CART = "UPDATE_CART";
+export const SET_USER_DETAILS = "SET_USER_DETAILS";
+export const SET_LOGIN_STATUS = "SET_LOGIN_STATUS";
+export const EMPTY_CART = "EMPTY_CART";
